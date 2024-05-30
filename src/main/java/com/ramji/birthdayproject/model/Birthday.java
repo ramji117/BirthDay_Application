@@ -5,6 +5,6 @@ public class Birthday {
 
 	private String name;
 	
-	private Integer age;
+	
 	
 }
